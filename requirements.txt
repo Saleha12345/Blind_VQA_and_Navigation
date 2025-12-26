@@ -1,0 +1,12 @@
+streamlit
+streamlit-webrtc
+opencv-python-headless
+numpy
+ultralytics
+transformers
+pillow
+torch
+openai-whisper
+gTTS
+streamlit-mic-recorder
+av
