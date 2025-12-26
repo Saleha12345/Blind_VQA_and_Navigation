@@ -35,6 +35,29 @@ Note : If you have weak internet connection, run this instead:
   ```bash
    streamlit run applite.py
 ```
+
+## 📸 Project Demo Screenshots
+
+### 1. Main Interface & Navigation
+| **Home Screen** | **Path Navigation** |
+|:---:|:---:|
+| <img src="assets/main%20screen.jpeg" width="300"> | <img src="assets/Path_navigation.jpeg" width="300"> |
+| *App Landing Page* | *Real-time path guidance* |
+
+### 2. Text Reading & VQA
+| **Reading Text** | **AI Answer** |
+|:---:|:---:|
+| <img src="assets/vaseline%20input%20text.jpeg" width="300"> | <img src="assets/reader.jpeg" width="300"> |
+| *OCR reading product text* | *Visual Question Answering result* |
+
+### 3. Hazard & Object Detection
+| **Hazard Check (Pothole)** | **Object Finder** |
+|:---:|:---:|
+| <img src="assets/pothole%20check.jpeg" width="300"> | <img src="assets/object%20finder.jpeg" width="300"> |
+| *AI detecting unsafe ground* | *Locating specific objects* |
+
+
+
 ## ⚠️ Limitations
 Monocular Vision: Distance estimation is an approximation based on focal length heuristics.
 
