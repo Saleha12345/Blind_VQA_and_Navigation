@@ -8,6 +8,7 @@ A multimodal AI assistant designed to aid visually impaired users with real-time
 ##  Key Features
 
 * **Real-Time Navigation:** Detects obstacles and provides clear "Stop", "Move Left", or "Move Right" audio cues using a custom Zone Logic algorithm.
+* * **Real-Time Question Answering:** Answer about the environment dynamically.
 * **Hazard Detection (VQA):** Uses a Vision-Language Model (Moondream2) to identify complex hazards like potholes, staircases, and wet floors.
 * **Voice Assistant:** Integrated Whisper (STT) and gTTS (TTS) allow users to ask questions about their surroundings verbally.
 * **Ultra-Lite Mode:** Optimized frame skipping and resource management to run on low-bandwidth connections.
